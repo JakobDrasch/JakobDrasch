@@ -13,34 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Herzlich Willkommen! 👋
+# Welcome! 👋
 
-## Über mich
+## About Me
 
-Hallo, ich bin [Dein Name], ein 16-jähriger angehender Fachinformatiker für Anwendungsentwicklung aus [deiner Stadt]. Derzeit absolviere ich meine Ausbildung bei [Firmenname], wo ich meine Fähigkeiten in der Softwareentwicklung weiterentwickle.
+Hello, I'm Jakob Drasch, a 16-year-old aspiring IT specialist for application development from Germany. Currently undergoing my apprenticeship at a EDV-School, where I'm honing my skills in software development.
 
-## 💻 Technologie-Stack
+## 💻 Technology Stack
 
-- Sprachen: Java, Python, JavaScript
-- Frameworks: Spring Boot, React
-- Datenbanken: MySQL, MongoDB
-- Tools: Git, VS Code, IntelliJ
+- Languages: C#, Java
+- Frameworks: --
+- Databases: MySQL
+- Tools: Git, VS Code, Eclipse, Android Studio
 
-## 🚀 Projekte
+## 🚀 Projects
 
-- **Projekt 1:** [Kurze Beschreibung]
-- **Projekt 2:** [Kurze Beschreibung]
-- **Projekt 3:** [Kurze Beschreibung]
+- **BrandPartner:** [Local Service Marketplace]
+- **AgentH21:** [Computer Monitoring Software]
+- **Portfolio:** [A Portfolio]
 
-Schau dir meine Repositories an, um mehr über meine Arbeit zu erfahren!
+Check out my repositories to learn more about my work!
 
-## 🌱 Aktuelles Lernziel
+## 🌱 Current Learning Goal
 
-Ich konzentriere mich derzeit darauf, meine Kenntnisse in [einem bestimmten Bereich] zu vertiefen und arbeite an [einem Projekt oder einer Herausforderung], um meine Fähigkeiten zu verbessern.
+I am currently focused on deepening my knowledge in web development and working on my project "BrandPartner" to enhance my skills.
 
-## 📫 Kontakt
+## 📫 Contact
 
-- LinkedIn: [Dein LinkedIn-Profil]
-- E-Mail: [Deine E-Mail-Adresse]
+- Email: --
 
-Lass uns vernetzen und gemeinsam die Welt des Codes erkunden! 🌐
+Let's connect and explore the world of code together! 🌐
+
