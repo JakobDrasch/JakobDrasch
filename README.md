@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello, I'm Jakob Drasch, a 16-year-old aspiring IT specialist for application development from Germany. Currently undergoing my apprenticeship at a EDV-School, where I'm honing my skills in software development.
+Hello, I'm Jakob Drasch, a 17-year-old aspiring IT specialist for application development from Germany. Currently undergoing my apprenticeship at a EDV-School, where I'm honing my skills in software development.
 
 ## 💻 Technology Stack
 
